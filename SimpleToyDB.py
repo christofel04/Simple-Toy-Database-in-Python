@@ -5,7 +5,7 @@ import os # For path handling
 
 
 # Create class for toy
-class SimpleToyDB(object):
+class ToyClass(object):
 
     # Basic Function
 
